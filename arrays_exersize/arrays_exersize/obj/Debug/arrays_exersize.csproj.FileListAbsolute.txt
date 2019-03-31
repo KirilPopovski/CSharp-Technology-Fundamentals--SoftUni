@@ -1,0 +1,7 @@
+C:\Users\Kiril\Desktop\C#\tech module\arrays_exersize\arrays_exersize\bin\Debug\arrays_exersize.exe.config
+C:\Users\Kiril\Desktop\C#\tech module\arrays_exersize\arrays_exersize\bin\Debug\arrays_exersize.exe
+C:\Users\Kiril\Desktop\C#\tech module\arrays_exersize\arrays_exersize\bin\Debug\arrays_exersize.pdb
+C:\Users\Kiril\Desktop\C#\tech module\arrays_exersize\arrays_exersize\obj\Debug\arrays_exersize.csprojAssemblyReference.cache
+C:\Users\Kiril\Desktop\C#\tech module\arrays_exersize\arrays_exersize\obj\Debug\arrays_exersize.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\Desktop\C#\tech module\arrays_exersize\arrays_exersize\obj\Debug\arrays_exersize.exe
+C:\Users\Kiril\Desktop\C#\tech module\arrays_exersize\arrays_exersize\obj\Debug\arrays_exersize.pdb
