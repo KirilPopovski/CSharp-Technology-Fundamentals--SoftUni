@@ -1,0 +1,7 @@
+C:\Users\Kiril\Desktop\C#\tech module\treesAndGraphs\treesAndGraphs\bin\Debug\treesAndGraphs.exe.config
+C:\Users\Kiril\Desktop\C#\tech module\treesAndGraphs\treesAndGraphs\bin\Debug\treesAndGraphs.exe
+C:\Users\Kiril\Desktop\C#\tech module\treesAndGraphs\treesAndGraphs\bin\Debug\treesAndGraphs.pdb
+C:\Users\Kiril\Desktop\C#\tech module\treesAndGraphs\treesAndGraphs\obj\Debug\treesAndGraphs.csprojAssemblyReference.cache
+C:\Users\Kiril\Desktop\C#\tech module\treesAndGraphs\treesAndGraphs\obj\Debug\treesAndGraphs.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\Desktop\C#\tech module\treesAndGraphs\treesAndGraphs\obj\Debug\treesAndGraphs.exe
+C:\Users\Kiril\Desktop\C#\tech module\treesAndGraphs\treesAndGraphs\obj\Debug\treesAndGraphs.pdb
