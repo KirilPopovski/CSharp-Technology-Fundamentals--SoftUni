@@ -1,0 +1,11 @@
+C:\Users\Kiril\Desktop\C#\tech module\oopPrinciples\oopPrinciples\bin\Debug\netcoreapp2.1\oopPrinciples.deps.json
+C:\Users\Kiril\Desktop\C#\tech module\oopPrinciples\oopPrinciples\bin\Debug\netcoreapp2.1\oopPrinciples.runtimeconfig.json
+C:\Users\Kiril\Desktop\C#\tech module\oopPrinciples\oopPrinciples\bin\Debug\netcoreapp2.1\oopPrinciples.runtimeconfig.dev.json
+C:\Users\Kiril\Desktop\C#\tech module\oopPrinciples\oopPrinciples\bin\Debug\netcoreapp2.1\oopPrinciples.dll
+C:\Users\Kiril\Desktop\C#\tech module\oopPrinciples\oopPrinciples\bin\Debug\netcoreapp2.1\oopPrinciples.pdb
+C:\Users\Kiril\Desktop\C#\tech module\oopPrinciples\oopPrinciples\obj\Debug\netcoreapp2.1\oopPrinciples.csprojAssemblyReference.cache
+C:\Users\Kiril\Desktop\C#\tech module\oopPrinciples\oopPrinciples\obj\Debug\netcoreapp2.1\oopPrinciples.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\Desktop\C#\tech module\oopPrinciples\oopPrinciples\obj\Debug\netcoreapp2.1\oopPrinciples.AssemblyInfoInputs.cache
+C:\Users\Kiril\Desktop\C#\tech module\oopPrinciples\oopPrinciples\obj\Debug\netcoreapp2.1\oopPrinciples.AssemblyInfo.cs
+C:\Users\Kiril\Desktop\C#\tech module\oopPrinciples\oopPrinciples\obj\Debug\netcoreapp2.1\oopPrinciples.dll
+C:\Users\Kiril\Desktop\C#\tech module\oopPrinciples\oopPrinciples\obj\Debug\netcoreapp2.1\oopPrinciples.pdb
