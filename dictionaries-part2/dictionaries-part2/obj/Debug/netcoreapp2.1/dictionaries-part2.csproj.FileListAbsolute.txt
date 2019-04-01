@@ -1,0 +1,11 @@
+C:\Users\Kiril\Desktop\C#\tech module\dictionaries-part2\dictionaries-part2\bin\Debug\netcoreapp2.1\dictionaries-part2.deps.json
+C:\Users\Kiril\Desktop\C#\tech module\dictionaries-part2\dictionaries-part2\bin\Debug\netcoreapp2.1\dictionaries-part2.runtimeconfig.json
+C:\Users\Kiril\Desktop\C#\tech module\dictionaries-part2\dictionaries-part2\bin\Debug\netcoreapp2.1\dictionaries-part2.runtimeconfig.dev.json
+C:\Users\Kiril\Desktop\C#\tech module\dictionaries-part2\dictionaries-part2\bin\Debug\netcoreapp2.1\dictionaries-part2.dll
+C:\Users\Kiril\Desktop\C#\tech module\dictionaries-part2\dictionaries-part2\bin\Debug\netcoreapp2.1\dictionaries-part2.pdb
+C:\Users\Kiril\Desktop\C#\tech module\dictionaries-part2\dictionaries-part2\obj\Debug\netcoreapp2.1\dictionaries-part2.csprojAssemblyReference.cache
+C:\Users\Kiril\Desktop\C#\tech module\dictionaries-part2\dictionaries-part2\obj\Debug\netcoreapp2.1\dictionaries-part2.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\Desktop\C#\tech module\dictionaries-part2\dictionaries-part2\obj\Debug\netcoreapp2.1\dictionaries-part2.AssemblyInfoInputs.cache
+C:\Users\Kiril\Desktop\C#\tech module\dictionaries-part2\dictionaries-part2\obj\Debug\netcoreapp2.1\dictionaries-part2.AssemblyInfo.cs
+C:\Users\Kiril\Desktop\C#\tech module\dictionaries-part2\dictionaries-part2\obj\Debug\netcoreapp2.1\dictionaries-part2.dll
+C:\Users\Kiril\Desktop\C#\tech module\dictionaries-part2\dictionaries-part2\obj\Debug\netcoreapp2.1\dictionaries-part2.pdb
