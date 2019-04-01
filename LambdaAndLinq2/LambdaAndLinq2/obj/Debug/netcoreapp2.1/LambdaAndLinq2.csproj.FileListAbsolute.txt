@@ -1,0 +1,11 @@
+C:\Users\Kiril\Desktop\C#\tech module\LambdaAndLinq2\LambdaAndLinq2\bin\Debug\netcoreapp2.1\LambdaAndLinq2.deps.json
+C:\Users\Kiril\Desktop\C#\tech module\LambdaAndLinq2\LambdaAndLinq2\bin\Debug\netcoreapp2.1\LambdaAndLinq2.runtimeconfig.json
+C:\Users\Kiril\Desktop\C#\tech module\LambdaAndLinq2\LambdaAndLinq2\bin\Debug\netcoreapp2.1\LambdaAndLinq2.runtimeconfig.dev.json
+C:\Users\Kiril\Desktop\C#\tech module\LambdaAndLinq2\LambdaAndLinq2\bin\Debug\netcoreapp2.1\LambdaAndLinq2.dll
+C:\Users\Kiril\Desktop\C#\tech module\LambdaAndLinq2\LambdaAndLinq2\bin\Debug\netcoreapp2.1\LambdaAndLinq2.pdb
+C:\Users\Kiril\Desktop\C#\tech module\LambdaAndLinq2\LambdaAndLinq2\obj\Debug\netcoreapp2.1\LambdaAndLinq2.csprojAssemblyReference.cache
+C:\Users\Kiril\Desktop\C#\tech module\LambdaAndLinq2\LambdaAndLinq2\obj\Debug\netcoreapp2.1\LambdaAndLinq2.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\Desktop\C#\tech module\LambdaAndLinq2\LambdaAndLinq2\obj\Debug\netcoreapp2.1\LambdaAndLinq2.AssemblyInfoInputs.cache
+C:\Users\Kiril\Desktop\C#\tech module\LambdaAndLinq2\LambdaAndLinq2\obj\Debug\netcoreapp2.1\LambdaAndLinq2.AssemblyInfo.cs
+C:\Users\Kiril\Desktop\C#\tech module\LambdaAndLinq2\LambdaAndLinq2\obj\Debug\netcoreapp2.1\LambdaAndLinq2.dll
+C:\Users\Kiril\Desktop\C#\tech module\LambdaAndLinq2\LambdaAndLinq2\obj\Debug\netcoreapp2.1\LambdaAndLinq2.pdb
