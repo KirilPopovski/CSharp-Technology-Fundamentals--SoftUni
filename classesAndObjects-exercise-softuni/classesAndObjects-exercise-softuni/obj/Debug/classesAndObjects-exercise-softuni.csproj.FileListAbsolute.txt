@@ -1,0 +1,7 @@
+C:\Users\Kiril\Desktop\C#\tech module\classesAndObjects-exercise-softuni\classesAndObjects-exercise-softuni\bin\Debug\classesAndObjects-exercise-softuni.exe.config
+C:\Users\Kiril\Desktop\C#\tech module\classesAndObjects-exercise-softuni\classesAndObjects-exercise-softuni\bin\Debug\classesAndObjects-exercise-softuni.exe
+C:\Users\Kiril\Desktop\C#\tech module\classesAndObjects-exercise-softuni\classesAndObjects-exercise-softuni\bin\Debug\classesAndObjects-exercise-softuni.pdb
+C:\Users\Kiril\Desktop\C#\tech module\classesAndObjects-exercise-softuni\classesAndObjects-exercise-softuni\obj\Debug\classesAndObjects-exercise-softuni.csprojAssemblyReference.cache
+C:\Users\Kiril\Desktop\C#\tech module\classesAndObjects-exercise-softuni\classesAndObjects-exercise-softuni\obj\Debug\classesAndObjects-exercise-softuni.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\Desktop\C#\tech module\classesAndObjects-exercise-softuni\classesAndObjects-exercise-softuni\obj\Debug\classesAndObjects-exercise-softuni.exe
+C:\Users\Kiril\Desktop\C#\tech module\classesAndObjects-exercise-softuni\classesAndObjects-exercise-softuni\obj\Debug\classesAndObjects-exercise-softuni.pdb
